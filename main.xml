@@ -3,6 +3,18 @@
   <channel>
     <item>
       <title unspecified="true"/>
+      <link>https://pypi.org/project/pytesseract/</link>
+      <pubDate>Wed, 14 Aug 2024 14:25:49 +0000</pubDate>
+      <description unspecified="true"/>
+    </item>
+    <item>
+      <title unspecified="true"/>
+      <link>https://tika.apache.org/</link>
+      <pubDate>Wed, 14 Aug 2024 14:24:34 +0000</pubDate>
+      <description unspecified="true"/>
+    </item>
+    <item>
+      <title unspecified="true"/>
       <link>https://arxiv.org/abs/2209.08575</link>
       <pubDate>Wed, 14 Aug 2024 13:51:57 +0000</pubDate>
       <description unspecified="true"/>
@@ -49,6 +61,6 @@
       <pubDate>Tue, 13 Aug 2024 18:05:27 +0000</pubDate>
       <description unspecified="true"/>
     </item>
-    <title>syndex -- a decentralized bookmarking tool</title>
+    <title>ml bookmarks</title>
   </channel>
 </rss>
